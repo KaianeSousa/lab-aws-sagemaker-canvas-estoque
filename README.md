@@ -44,6 +44,6 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 
 ## Conclusão
 
-Foi utilizado o dataset "dataset-1000-com-preco-variavel-e-renovacao-estoque.csv", proposto pela DIO. O modelo escolhido foi o Quick build para uma busca mais rápida.
-As métricas obtidas foram 30.78 e 947.437 para, respectivamente, RMSE (Root Mean Squared Error) e MSE (Mean Squared Error).
+Foi utilizado o dataset "dataset-1000-com-preco-variavel-e-renovacao-estoque.csv", proposto pela DIO. O modelo escolhido foi o Quick build para uma busca mais rápida, com o porém de ter mais chances de imprecisão.
+As métricas obtidas com esse modelo foram 30.78 e 947.437 para, respectivamente, RMSE (Root Mean Squared Error) e MSE (Mean Squared Error).
 Foi um aprendizado curto ao mesmo tempo que foi gratificante.
