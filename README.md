@@ -42,6 +42,8 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 -   Exporte os resultados e analise as previsões geradas.
 -   Documente suas conclusões e qualquer insight obtido a partir das previsões.
 
-## 🤔 Dúvidas?
+## Conclusão
 
-Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+Foi utilizado o dataset "dataset-1000-com-preco-variavel-e-renovacao-estoque.csv", proposto pela DIO. O modelo escolhido foi o Quick build para uma busca mais rápida.
+As métricas obtidas foram 30.78 e 947.437 para, respectivamente, RMSE (Root Mean Squared Error) e MSE (Mean Squared Error).
+Foi um aprendizado curto ao mesmo tempo que foi gratificante.
